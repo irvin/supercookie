@@ -238,10 +238,10 @@ Mobile browsers are also affected.
         <td>Fingerprint different in incognito mode</td>
     </tr>
     <tr>
-        <td>Brave <em>(v 1.19.92)</em></td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
-        <td align="center">❌</td>
+        <td>Brave <em>(v 1.21.73)</em></td>
+        <td align="center">❔</td>
+        <td align="center">✅</td>
+        <td align="center">❔</td>
         <td align="center">❔</td>
         <td align="center">❌</td>
         <td>-</td>
